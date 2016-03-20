@@ -1,29 +1,30 @@
-Service Contract for Development and Design
+**Service Contract for Development and Design**
 
-Definitions
-Developer: Name of Individual issuing this contract
+**Definitions**
 
-Client: Name of Company or individual entering into this contract with the Developer
+**Developer:** Name of Individual issuing this contract
 
-Services: Any task or series of tasks done by the Developer on request from the Client, or as part of fulfilling a request from the Client
+**Client:** Name of Company or individual entering into this contract with the Developer
 
-Product: Any code, images, markup, scripts, content created by the Developer while performing Services
+**Services:** Any task or series of tasks done by the Developer on request from the Client, or as part of fulfilling a request from the Client
 
-Intangibles: Knowledge about solutions to problems, methods, or designs
+**Product:** Any code, images, markup, scripts, content created by the Developer while performing Services
 
-* Terms
+**Intangibles:** Knowledge about solutions to problems, methods, or designs
 
-Rate: Services shall be billed to the Client at the rate of £___ GBP per hour / day / month.
+**Terms**
 
-Payment: The Client shall send a non-refundable deposit of 10% of the total value of the invoice to confirm services. The balance is due on completion of the work.
+**Rate:** Services shall be billed to the Client at the rate of £___ GBP per hour / day / month.
 
-Billable Time: All time spent performing Services and communicating with the Client is billable.
+**Payment:** The Client shall send a non-refundable deposit of 10% of the total value of the invoice to confirm services. The balance is due on completion of the work.
 
-Estimations: If an estimate is requested by the Client, the first 30 minutes of time spent preparing the estimate will not be billable. Time spent on an estimate beyond 30 minutes will be billable at the normal rate.
+**Billable Time:** All time spent performing Services and communicating with the Client is billable.
 
-Copyright: Copyright of all Products created while performing Services for the Client will be transferred to the Client upon receipt of payment in full, except in the cases described below.
+**Estimations:** If an estimate is requested by the Client, the first 30 minutes of time spent preparing the estimate will not be billable. Time spent on an estimate beyond 30 minutes will be billable at the normal rate.
 
-Copyright Exceptions
+**Copyright:** Copyright of all Products created while performing Services for the Client will be transferred to the Client upon receipt of payment in full, except in the cases described below.
+
+**Copyright Exceptions**
 
 The Developer reserves the right to reuse and re-license portions of the created Product as desired, as long as the portions are general solutions to common problems and are not specific to the Clients product.
 
